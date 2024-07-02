@@ -28,8 +28,8 @@ Nodes:
   -
     PanelType: AikoPanel
     ApiConfig:
-      ApiHost: https://link4gdata.com
-      ApiKey: link4gdatalink4gdata
+      ApiHost: https://osaka5g.com
+      ApiKey: osaka009988778899
       NodeID: $node_id2
       NodeType: V2ray
       Timeout: 30
@@ -48,8 +48,8 @@ Nodes:
   -
     PanelType: AikoPanel
     ApiConfig:
-      ApiHost: https://link4gdata.com
-      ApiKey: link4gdatalink4gdata
+      ApiHost: https://osaka5g.com
+      ApiKey: osaka009988778899
       NodeID: $node_id1
       NodeType: Trojan
       Timeout: 30
