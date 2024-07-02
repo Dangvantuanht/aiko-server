@@ -35,7 +35,7 @@ Nodes:
       Timeout: 30
       EnableVless: false
       VlessFlow: "xtls-rprx-vision"
-      RuleListPath: /etc/Aiko-Server/rulelist
+      RuleListPath:
     ControllerConfig:
       DisableLocalREALITYConfig: false
       EnableREALITY: false
@@ -55,7 +55,7 @@ Nodes:
       Timeout: 30
       EnableVless: false
       VlessFlow: "xtls-rprx-vision"
-      RuleListPath: /etc/Aiko-Server/rulelist
+      RuleListPath:
     ControllerConfig:
       DisableLocalREALITYConfig: false
       EnableREALITY: false
